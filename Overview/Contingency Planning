@@ -24,4 +24,127 @@ Why do we need to talk about this?
 
 Fringe Benefits
   Many make a career out of Incident Response, Disaster Recovery and Business Continuity Planning and it can be quite rewarding.
-  There are many industry certifications that can be maintained
+  There are many industry certifications that can be maintained for all three areas of concentration. Some examples include:
+   - Certified Incident Handler
+   - DRI International (Many)
+   - Business Continuity Institute
+   - MBCP / CBCP
+
+Where does this sit within the organization?
+
+While many of these concepts are business issues, many contingencies are I.T. related or are information security incidents so we need to understand basic information security concepts
+
+Information Security (InfoSec)
+Protection of the confidentiality, integrity, and availability of information in storage, during processing, or in transmission
+
+We need to discuss Terminology
+
+Threat
+Category of objects, persons, or other entities that pose a potential risk of loss to an asset
+Asset
+A protected organizational resource
+Logical asset: Web site, information, or data
+Physical asset: person, computer system, building, vehicle, other tangible objects
+Attack
+An intentional or unintentional attempt to cause damage or otherwise compromise information or assets; AKA “realization of a threat”
+Threat-agent
+A specific and identifiable instance of a general threat
+Vulnerability
+A weakness or fault in the protection mechanisms for organizational assets
+Well-known vulnerabilities
+Vulnerabilities that have been examined, documented, and published
+Exploit
+Illegal use of a system or information asset
+A targeted solution to misuse a specific hole or vulnerability
+Control, safeguard, or countermeasure
+Security mechanisms, policies, or procedures to successfully counter attacks, reduce risk, resolve vulnerabilities, and improve security
+
+Lets talk about some examples
+Threats
+Human Error / Failure
+Unauthorized Access (Hack?)
+Blackmail
+Deliberate Destruction
+Forces of Nature
+Power issues / Network issues
+Equipment Failure
+Data Leakage (Hack?)
+Outdated technology / Software
+Loopholes, code issues, bugs
+Pandemic / Epidemic
+Acts of war
+
+Assets
+TWO CATEGORIES
+ - Physical
+ - Logical
+
+Physical
+Computers
+Servers
+Networking equipment
+Mobile Devices
+Paper
+Buildings
+
+Logical
+Software
+Intellectual Property
+Code
+Processes / Procedures
+Data
+
+Attacks
+Malware / Viruses / Ransomware
+Hack
+Social Engineering
+Nature
+Physical
+Entry to building
+Destruction
+
+Vulnerabilities
+Code errors
+Human factor
+Configuration Errors
+Accidental omission
+Culture (non-profit example)
+Obsolete Systems
+
+Controls
+Two Types:
+Detective
+Audits
+Reports
+Tools (IDS)
+Cameras / Recording
+
+Proactive
+Policies
+Logical barriers 9firewalls)
+Authentication
+Physical Barriers
+Key Card Access
+Procedures
+
+
+Risk Management
+Definition of Risk Management: Process of identifying vulnerabilities and taking carefully reasoned steps to minimize the impact of contingencies on organizational operations and to ensure the confidentiality, integrity, and availability of information systems
+
+Why are we talking about this?
+Prerequisite for everything we do
+Often short-cutted
+No real standard or common template
+It is the road map for us to proceed
+Helps us with where to spend the money!
+
+Diagram of Risk Process
+<<insert diagram>>
+
+
+
+
+
+
+
+ 
